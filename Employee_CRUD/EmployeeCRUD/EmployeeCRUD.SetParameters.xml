@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="www.employeedetails.com" />
+  <setParameter name="EmployeeDetailsConnectionString-Web.config Connection String" value="Data Source=LAPTOP-9SRI3PHR;Initial Catalog=EmployeeDetails;User ID=sa;Password=sa_1234" />
+</parameters>
