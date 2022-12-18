@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<sitemanifest>
-  <DbDacFx path="E:\Practice\Visual Studio\EmployeeCRUD\EmployeeCRUD\obj\Release\AutoScripts\EmployeeDetailsConnectionString_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
-  <IisApp path="E:\Practice\Visual Studio\EmployeeCRUD\EmployeeCRUD\obj\Release\Package\PackageTmp" />
-  <setAcl path="E:\Practice\Visual Studio\EmployeeCRUD\EmployeeCRUD\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="E:\Practice\Visual Studio\EmployeeCRUD\EmployeeCRUD\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
-  <setAcl path="E:\Practice\Visual Studio\EmployeeCRUD\EmployeeCRUD\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
-</sitemanifest>
