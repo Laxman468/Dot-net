@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EmployeeDetailsConnectionString-Web.config Connection String" description="EmployeeDetailsConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-9SRI3PHR;Initial Catalog=EmployeeDetails;User ID=sa;Password=sa_1234" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Practice\\Visual\ Studio\\EmployeeCRUD\\EmployeeCRUD\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EmployeeDetailsConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
